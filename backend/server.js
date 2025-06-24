@@ -19,8 +19,8 @@ const app = express();
 app.use(express.json());
 app.use(cors({
     origin:[
-        'https://shopistry-fr.vercel.app/',
-     'http://localhost:5173'
+        'http://localhost:5173',
+        'https://shopistry-fr.vercel.app/'
     ] ,          
     credentials: true
 }));
