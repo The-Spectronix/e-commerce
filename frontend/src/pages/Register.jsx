@@ -25,7 +25,7 @@ useEffect(() => {
       dispatch(mergeCart({ guestId, user })).then(() => {
         navigate(isCheckoutRedirect ? "/checkout" : "/");
       })
-    } else {
+    } else {  
         navigate(isCheckoutRedirect ? "/checkout" : "/");
     }
   }

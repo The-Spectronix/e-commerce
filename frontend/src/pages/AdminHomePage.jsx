@@ -87,17 +87,17 @@ import { fetchAllOrders } from '../redux/slices/adminOrderSlice';
 const AdminHomePage = () => {
     const dispatch = useDispatch();
 
-    // FIX 1: Provide default empty arrays or default numeric values for state
     const { products = [], loading: productsLoading, error: productsError } = useSelector((state) => state.adminProducts);
     const {
-        orders = [], // Default to empty array
-        totalOrders = 0, // Default to 0
-        totalSales = 0,  // Default to 0
+        orders = [], 
+        totalOrders = 0, 
+        totalSales = 0,  
         loading: ordersLoading,
         error: ordersError
     } = useSelector((state) => state.adminOrders);
 
     useEffect(() => {
+        dispatch()
         dispatch(fetchAdminProducts());
         dispatch(fetchAllOrders());
     }, [dispatch]);
