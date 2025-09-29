@@ -46,11 +46,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://us.dockers.com/cdn/shop/files/Little-River-Indigo-Stretch-Oxford-Shirt-Slim-Fit-front-295990022_1080x1350_crop_center.png?v=1741350808",
+        url: "https://imgs.search.brave.com/zl3YvaOI4ZeWV86B9JWlXoSzH5LbNkZffde9-9bmo9A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjExd0plSVJ6Ykwu/anBn",
         altText: "Slim-Fit Stretch Shirt Front View",
       },
       {
-        url: "https://us.dockers.com/cdn/shop/files/Little-River-Indigo-Stretch-Oxford-Shirt-Slim-Fit-back-295990022_1080x1350_crop_center.png?v=1741350808",
+        url: "https://imgs.search.brave.com/zl3YvaOI4ZeWV86B9JWlXoSzH5LbNkZffde9-9bmo9A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjExd0plSVJ6Ykwu/anBn",
         altText: "Slim-Fit Stretch Shirt Back View",
       },
     ],
@@ -402,7 +402,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://imgs.search.brave.com/NzTrB5keiQgIBalI4jmMm-GP6Tc-EmIxAFAjdCwSvJg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly96YW1h/Z2UuY29tL2Nkbi9z/aG9wL2ZpbGVzL05S/dHJrc18wMDA5X25h/dnlfZDRkZjhhNDYt/MTNjOS00ZTFkLWE2/YWYtZDg4MGMxNjE5/MTlkLmpwZz92PTE3/Mjc3MTA5MzMmd2lk/dGg9MTA4MA",
+        url: "https://imgs.search.brave.com/IeHAzXbSWKjgtLer-EShHoFtbnWGurAsSilQodWA4bk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtZXUuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxblkzWGY4ZHBM/Ll9BQ19VTDMwMF9T/UjMwMCwyMDBfLmpw/Zw",
         altText: "Track Pants Front View",
       },
     ],
